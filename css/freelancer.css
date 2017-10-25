@@ -401,6 +401,14 @@ footer {
     color: #2C3E50;
     background-color: white; }
 
+.btn-center {
+ display: flex;
+ justify-content: center;
+ /*margin: 0 auto 0 auto;*/
+/* margin-left: auto;
+ margin-right: auto;*/
+ /*width: 200px;*/
+}
 .btn-success {
   font-weight: 700;
   color: white;
@@ -453,3 +461,6 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+
+.submit
